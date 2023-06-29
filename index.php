@@ -1,7 +1,7 @@
 <?php
 	$config = [
 			   'gallery_name' => 'Dynamic Image Gallery',
-			   'unsplash_categories' => ['Travel','Interiors','Film','Athletics'],
+			   'unsplash_categories' => ['Travel','Nature','Film','Experimental'],
 			   'photographer'  => [
 			   		['local_images' => '01.jpg', 'name' => 'Sascha Bosshard', 'href' => 'https://unsplash.com/@thesaboo'],
 			   		['local_images' => '02.jpg', 'name' => 'Shiqi Zhao', 'href' => 'https://unsplash.com/@alger19'],
