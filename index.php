@@ -25,7 +25,7 @@
 		<?php foreach($config['unsplash_categories'] as $categories): ?>
         	<div>
         		<h2><?= $categories ?></h2>
-        		<img src="https://source.unsplash.com/300x200/?<?= $categories ?>" alt="<?= $categories ?> image">
+        		<img src="https://source.unsplash.com/category/<?= $categories ?>/300x200" alt="<?= $categories ?> image">
         	</div>
 		<?php endforeach ?>
 	</div>
